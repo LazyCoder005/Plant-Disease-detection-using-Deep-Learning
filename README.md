@@ -8,4 +8,4 @@ This dataset consists of about 87K rgb images of healthy and diseased crop leave
 
 Link : https://www.kaggle.com/vipoooool/new-plant-diseases-dataset
 
-<img src="Web_ss.jpg" width="600" height="300"/><br><br>
+<img src="Web_ss.png" width="600" height="300"/><br><br>
